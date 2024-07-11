@@ -1,1 +1,29 @@
 
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+        <h1>Tablas</h1>
+        <table border="1">
+            <tr>
+                <th>Nombre</th>
+                <th>Edad</th>
+                <th>Ciudad</th>
+            </tr>
+            <tr>
+                <th>Oscar</th>
+                <th>30</th>
+                <th>Popayan</th>
+            </tr>
+            <tr>
+                <th>Carlos</th>
+                <th>34</th>
+                <th>Barcelona</th>
+            </tr>
+        </table>
+    </body>
+    </html>
